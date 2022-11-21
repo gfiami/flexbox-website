@@ -5,12 +5,26 @@
 }
 
 .menu-container {
+  display: flex;
+  justify-content: center;
   color: white;
   background-color: #387ac5;
   padding: 20px 0;
 }
 
 .menu {
-  border: 1px solid white;
+  border: 1px solid white; /*remove later */
   width: 900px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.acessType {
+  border: 1px solid white; /*remove later */
+  display: flex;
+  justify-content: flex-end;
+}
+
+.login {
+  margin-left: 15px;
 }
