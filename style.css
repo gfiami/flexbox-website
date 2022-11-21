@@ -3,7 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  background-color: #25aaaa63;
+}
 .menu-container {
   display: flex;
   justify-content: center;
@@ -29,7 +31,6 @@
 
 .content-container {
   color: #315580;
-  background-color: #25aaaa63;
   display: flex;
   justify-content: center;
 }
@@ -43,4 +44,17 @@
 .subscribe {
   border: 1px solid #406fa3d5;
   padding: 2px;
+}
+.img-container {
+  display: flex;
+  justify-content: center;
+}
+.img-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.img-item {
+  width: 300px;
+  height: 350px;
 }
