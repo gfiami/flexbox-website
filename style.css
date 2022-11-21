@@ -26,3 +26,21 @@
 .login {
   margin-left: 15px;
 }
+
+.content-container {
+  color: #315580;
+  background-color: #25aaaa63;
+  display: flex;
+  justify-content: center;
+}
+.content {
+  width: 900px;
+  height: 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.subscribe {
+  border: 1px solid #406fa3d5;
+  padding: 2px;
+}
