@@ -58,3 +58,19 @@ body {
   width: 300px;
   height: 350px;
 }
+
+.img1 {
+  order: 1;
+}
+.img2 {
+  order: 2;
+}
+.img3 {
+  order: 3;
+}
+.img4 {
+  order: 4;
+}
+.img5 {
+  order: 5;
+}
