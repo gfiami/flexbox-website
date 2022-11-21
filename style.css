@@ -13,14 +13,12 @@
 }
 
 .menu {
-  border: 1px solid white; /*remove later */
   width: 900px;
   display: flex;
   justify-content: space-between;
 }
 
 .acessType {
-  border: 1px solid white; /*remove later */
   display: flex;
   justify-content: flex-end;
 }
